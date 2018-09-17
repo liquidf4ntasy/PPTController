@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_a8a4fb022f2955369df2c5b1b6e19bd734df6a67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1313f977623ef143b480bd48768ce9ff94d0cc7">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e43cfacaf47daeba6ffc72f7436776475690474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_aedce74d2945d050bcae20d5e000b4c4dac873d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_87a85915a36c736f3c1f2005428c325e2e32f0c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e41197e51ef3293245cc3e0d577b93922368657">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_70e4ab1e8d2aecf354fab42bd28cf3fd61b6b0a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_4e3673563666202adcd7b20e9d628117348219c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_f9b5c0f99d1e1579be2cc481fae0259733aa71c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_35d71aedb047d870869095920376ba91e31300ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8534dcf7ea598ac7990df28f67085b4d6099a396\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_925f5e5666ebec3b2ef41450b2a27bb54428f9a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1d1a7ffa1383ce1b333b4284fef537c7a8e87f22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_bd1afbcc69a241841051ff00a5a731c39ad403b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_77f262dc200afe19be7c45dbbb5099eb0a0b425b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_c0233f8f29043a4077075bdb93d9ee5685130a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_a2018eac0677fb8211f2effdec30b5df00932d27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_a7453159803b422ed45a5a15c2326dedab5c3b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aditya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Aditya\Desktop\Folder\PPTController\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_1e4b751220314bdc5681baaeeb2ca7e97adac1c6\classes.dex" />
+    </item>
+
+</items>
